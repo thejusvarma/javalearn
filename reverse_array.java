@@ -14,6 +14,9 @@ class reverse_array
         {
             array[i] = A.nextInt();
         } 
+
+        //if given string then use 
+        //char[] array = str.toCharArray()
         
         //main reverse logic
         int first = 0;
